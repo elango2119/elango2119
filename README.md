@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/elangokannan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elango kannan" height="30" width="40" /></a>
-<a href="https://instagram.com/iamelango7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamelango7" height="30" width="40" /></a>
-<a href="https://fb.com/elango elano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elango elano" height="30" width="40" /></a>
+<a href="https://www.instagram.com/imelango1921/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamelango7" height="30" width="40" /></a>
+<a href="https://www.facebook.com/elango.elano.104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elango elano" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCevGzNZf3Ci5mc-6Cf2Vlbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="e l a n g o" height="30" width="40" /></a>
 <a href="https://discord.gg/elango7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elango7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/elango" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/codechef.png" alt="elango" height="30" width="40" /></a>
